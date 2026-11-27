@@ -3,7 +3,7 @@
 <p align="center">
   <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/40d88cc5-8c9d-4ee9-96b3-bae293e698ab" />
   <br>
-  <img src="https://img.shields.io/badge/Version-1.0.1-blue" alt="Version 1.0.1" />
+  <img src="https://img.shields.io/badge/Version-1.0.2-blue" alt="Version 1.0.2" />
 </p>
 
 > *This project is fully vibe coded using AI Studio. For now, I don't intend to share the codebase of it.*

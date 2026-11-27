@@ -3,7 +3,7 @@
 <p align="center">
   <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/40d88cc5-8c9d-4ee9-96b3-bae293e698ab" />
   <br>
-  <img src="https://img.shields.io/badge/Version-1.0.1-blue" alt="Version 1.0.1" />
+  <img src="https://img.shields.io/badge/Version-1.0.0-blue" alt="Version 1.0.0" />
 </p>
 
 > *This project is fully vibe coded using AI Studio. For now, I don't intend to share the codebase of it.*
@@ -67,19 +67,12 @@ We all already have a default Clock app on our phones—but does it automaticall
   </tr>
 </table>
 
-## Try It Out
-
-Download the latest APK:
-<br>
-<a href="https://raw.githubusercontent.com/saimahendra282/AAE-App/main/AAE-latest.apk" download>
-  <img src="https://img.shields.io/badge/Download-APK-green?style=for-the-badge&logo=android" alt="Download APK">
-</a>
-<br>
-Please try it out if you also feel *"oh yes, I need this kind of fix too!"*
-
 ## Feedback, Bugs & Feature Requests
 
 If you have additional feature requests, spot any bugs, or want to share suggestions, please open a new issue here so I can respond quickly:
-👉 <a href="https://github.com/saimahendra282/AAE-App/issues">
+<br>
+ <a href="https://github.com/saimahendra282/AAE-App/issues">
   <img src="https://img.shields.io/badge/Report%20an%20Issue-GitHub-red?style=for-the-badge&logo=github" alt="Report an Issue">
 </a>
+
+Please try it out if you also feel *"oh yes, I need this kind of fix too!"*
